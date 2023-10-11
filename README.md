@@ -13,11 +13,14 @@ blamOSH is a simple pseudo command-line shell designed to provide a user-friendl
 
 ## Requirements
 * Linux Operating System
-* C/C++ Compiler
 
 ## Getting Started
 1. Clone the Repository
-2. Navigate to the blamOSH directory and compile the code.
+2. Navigate to the blamOSH directory.
 3. Run blamOSH
-   
+
+## Source Code
+If interested in the source code, please contact me via email.
+
+
 Developed Fall '23.
